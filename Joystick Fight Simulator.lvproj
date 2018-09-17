@@ -13,6 +13,7 @@
 		<Item Name="sounds" Type="Folder" URL="../sounds">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
+		<Item Name="Gamepad Example 1.vi" Type="VI" URL="../Gamepad Example 1.vi"/>
 		<Item Name="Joystick Fight Simulator.lvlib" Type="Library" URL="../Joystick Fight Simulator.lvlib"/>
 		<Item Name="LimaJapan Fighter.vi" Type="VI" URL="../LimaJapan Fighter.vi"/>
 		<Item Name="Simulator Play Sound.vi" Type="VI" URL="../Simulator Play Sound.vi"/>
